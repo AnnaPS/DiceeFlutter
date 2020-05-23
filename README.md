@@ -1,6 +1,6 @@
 # Dice Flutter App
 
-Section 6 of the flutter course at appbrewery.co
+Section 7 of the flutter course at appbrewery.co
 https://www.appbrewery.co/courses/851555/
 
 ## Getting Started
