@@ -1,6 +1,7 @@
-# dicee_flutter_app
+# Dice Flutter App
 
-A new Flutter project.
+Section 6 of the flutter course at appbrewery.co
+https://www.appbrewery.co/courses/851555/
 
 ## Getting Started
 
