@@ -12,7 +12,7 @@ class MyApp extends StatelessWidget {
       home: Scaffold(
         backgroundColor: Colors.red,
         appBar: AppBar(
-          title: Text('Dicee'),
+          title: Text('Dicee 2'),
           backgroundColor: Colors.red,
         ),
         body: DicePage(),
